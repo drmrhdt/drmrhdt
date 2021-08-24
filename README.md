@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Daria
+___
 
+- I live in Moscow, Russia
+- I'm a frontend developer at MTS Digital
 <!--
 **drmrhdt/drmrhdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

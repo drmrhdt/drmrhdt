@@ -1,8 +1,13 @@
-### Hi there 👋 I'm Daria
-___
-
-- I live in Moscow, Russia.
-- I'm a frontend developer at MTS Digital.
+<h1> Hi there 👋 I'm Daria </h1>
+<tr>
+<ul>
+  <li>I live in Moscow, Russia.</li>
+  <li>I'm a frontend developer at MTS Digital.</li>
+  <li>Most of the time I'm writing JavaScript.</li>
+</ul>
+<br>
+My CV:   
+<br>
 <!--
 **drmrhdt/drmrhdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

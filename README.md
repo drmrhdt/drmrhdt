@@ -6,7 +6,7 @@
   <li>Most of the time I'm writing JavaScript.</li>
 </ul>
 <br>
-My CV:   
+  My CV: <a href="/assets/Daria_Popova.pdf">Daria Popova.pdf</a>
 <br>
 <!--
 **drmrhdt/drmrhdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@
   <li>I'm a frontend developer at MTS Digital.</li>
 </ul>
 <br>
-  My CV: <a href="/assets/Daria_Popova.pdf">Daria Popova.pdf</a>
+  <b>My CV:</b> <a href="/assets/Daria_Popova.pdf">Daria Popova.pdf</a>
 <br>
 <h3>Skills</h3>
 <tr>
@@ -33,6 +33,12 @@
 <h4>Operating System</h4>
 <span><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a></span>
 <span><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a></span>
+
+<h2> Connect with me </h2>
+<tr>
+<a href="https://t.me/u4238965"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/daria-popova-35518b1aa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:drmrhdt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!--
 **drmrhdt/drmrhdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

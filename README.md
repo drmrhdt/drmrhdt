@@ -1,7 +1,7 @@
 <h1> Hi there 👋 I'm Daria </h1>
 <tr>
 <ul>
-  <li>I live in Moscow, Russia.</li>
+  <li>I live in Antalya, Turkey.</li>
   <li>I'm a frontend developer at MTS Digital.</li>
 </ul>
 <br>

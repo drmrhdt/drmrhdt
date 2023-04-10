@@ -2,7 +2,7 @@
 <tr>
 <ul>
   <li>I live in Antalya, Turkey.</li>
-  <li>I'm a frontend developer at MTS Digital.</li>
+  <li>I'm a frontend developer at Harmony Cloud Systems Pte Ltd.</li>
 </ul>
 <br>
   <b>My CV:</b> <a href="/assets/Daria_Popova.pdf">Daria Popova.pdf</a>
